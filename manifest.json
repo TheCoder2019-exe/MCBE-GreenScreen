@@ -1,0 +1,18 @@
+{
+    "format_version": 2,
+    "header": {
+        "description": "Makes >>concrete: 5<< into a greeen screen",
+        "name": "§aGS §bMod",
+        "uuid": "66c6e9a0-3093-462a-9c36-dbb052165822",
+        "version": [0, 0, 1],
+        "min_engine_version": [ 1, 14, 50 ]
+    },
+    "modules": [
+        {
+            "description": "Makes >>concrete: 5<< into a greeen screen §6By §e@§aTheCoder2019§1_",
+            "type": "resources",
+            "uuid": "743a6949-53be-44b6-b326-398005028819",
+            "version": [0, 0, 1]
+        }
+    ]
+}
